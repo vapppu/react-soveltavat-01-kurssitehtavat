@@ -25,6 +25,7 @@ const Total = (props) => {
 };
 
 const App = () => {
+  console.log("Uudesta reposta!!!")
   const course = {
     name: "Half Stack application development",
     parts: [
