@@ -2,7 +2,7 @@
   "name": "01-kurssitiedot",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://vapppu.github.io/react-luku2-oppimistehtava-kurssitiedot",
+  "homepage": "https://vapppu.github.io/react-soveltavat-01-kurssitehtavat",
   "type": "module",
   "scripts": {
     "dev": "vite",
